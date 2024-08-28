@@ -1,0 +1,28 @@
+{
+  "name": "portfolioproject",
+  "version": "1.0.0",
+  "description": "Haberling Portfolio",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaberling/Haberling-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaberling/Haberling-Portfolio/issues"
+  },
+  "homepage": "https://github.com/bhaberling/Haberling-Portfolio#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
